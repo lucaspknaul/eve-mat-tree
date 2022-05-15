@@ -1,0 +1,42 @@
+Time per run	05:00:00
+1 x Megathron
+8,000,000 x Tritanium
+4,000,000 x Pyerite
+600,000 x Mexallon
+400,000 x Isogen
+12,000 x Nocxium
+6,000 x Zydrine
+3,000 x Megacyte
+200 x Auto-Integrity Preservation Seal
+1 x Core Temperature Regulator
+100 x Life Support Backup Unit
+
+Time per run	00:30:00
+3 x Auto-Integrity Preservation Seal
+80 x Bacteria
+40 x Proteins
+10 x Reinforced Carbon Fiber
+
+Time per run	03:00:00
+200 x Reinforced Carbon Fiber
+200 x Carbon Fiber
+1 x Oxy-Organic Solvents
+200 x Thermosetting Polymer
+
+Time per run	03:00:00
+200 x Carbon Fiber
+100 x Hydrocarbons
+100 x Evaporite Deposits
+5 x Hydrogen Fuel Block
+
+Time per run	03:00:00
+10 x Oxy-Organic Solvents
+2,000 x Hydrocarbons
+2,000 x Atmospheric Gases
+5 x Oxygen Fuel Block
+
+Time per run	03:00:00
+200 x Thermosetting Polymer
+100 x Atmospheric Gases
+100 x Silicates
+5 x Oxygen Fuel Block
